@@ -1,0 +1,561 @@
+2026-02-01 17:59:35,340 - app.main - INFO - ============================================================
+2026-02-01 17:59:35,340 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-01 17:59:35,340 - app.main - INFO - ============================================================
+2026-02-01 17:59:35,340 - app.main - INFO - ✓ Data directories initialized
+2026-02-01 17:59:35,340 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-01 18:04:02,162 - app.main - INFO - Shutting down application...
+2026-02-01 18:04:02,163 - app.main - INFO - ✓ Cleanup completed
+2026-02-01 18:08:45,221 - app.main - INFO - ============================================================
+2026-02-01 18:08:45,221 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-01 18:08:45,221 - app.main - INFO - ============================================================
+2026-02-01 18:08:45,221 - app.main - INFO - ✓ Data directories initialized
+2026-02-01 18:08:45,221 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-01 18:09:02,324 - app.main - INFO - Shutting down application...
+2026-02-01 18:09:02,325 - app.main - INFO - ✓ Cleanup completed
+2026-02-01 18:09:02,964 - app.main - INFO - ============================================================
+2026-02-01 18:09:02,964 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-01 18:09:02,964 - app.main - INFO - ============================================================
+2026-02-01 18:09:02,964 - app.main - INFO - ✓ Data directories initialized
+2026-02-01 18:09:02,964 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-01 18:09:40,067 - app.main - INFO - Shutting down application...
+2026-02-01 18:09:40,068 - app.main - INFO - ✓ Cleanup completed
+2026-02-01 18:09:40,553 - app.main - INFO - ============================================================
+2026-02-01 18:09:40,553 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-01 18:09:40,553 - app.main - INFO - ============================================================
+2026-02-01 18:09:40,553 - app.main - INFO - ✓ Data directories initialized
+2026-02-01 18:09:40,553 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-01 18:09:43,080 - app.main - INFO - Shutting down application...
+2026-02-01 18:09:43,080 - app.main - INFO - ✓ Cleanup completed
+2026-02-01 18:09:43,431 - app.main - INFO - ============================================================
+2026-02-01 18:09:43,432 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-01 18:09:43,432 - app.main - INFO - ============================================================
+2026-02-01 18:09:43,432 - app.main - INFO - ✓ Data directories initialized
+2026-02-01 18:09:43,432 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-01 18:09:44,341 - app.main - INFO - Shutting down application...
+2026-02-01 18:09:44,341 - app.main - INFO - ✓ Cleanup completed
+2026-02-01 18:09:44,725 - app.main - INFO - ============================================================
+2026-02-01 18:09:44,725 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-01 18:09:44,725 - app.main - INFO - ============================================================
+2026-02-01 18:09:44,725 - app.main - INFO - ✓ Data directories initialized
+2026-02-01 18:09:44,725 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-01 18:14:11,082 - app.api.routes.reminders - INFO - Processing upload: sample.txt -> e1d00609-0466-4d8f-9f11-bb029ff6edb4
+2026-02-01 18:14:11,083 - app.api.routes.reminders - INFO - File saved to vault: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/vault/documents/e1d00609-0466-4d8f-9f11-bb029ff6edb4.txt
+2026-02-01 18:14:11,084 - app.api.routes.reminders - INFO - Text extracted: 57 characters
+2026-02-01 18:14:11,085 - app.api.routes.reminders - INFO - Metadata saved: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/metadata/e1d00609-0466-4d8f-9f11-bb029ff6edb4.json
+2026-02-01 18:21:15,096 - app.main - INFO - Shutting down application...
+2026-02-01 18:21:15,098 - app.main - INFO - ✓ Cleanup completed
+2026-02-01 19:15:32,414 - app.main - INFO - ============================================================
+2026-02-01 19:15:32,415 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-01 19:15:32,415 - app.main - INFO - ============================================================
+2026-02-01 19:15:32,415 - app.main - INFO - ✓ Data directories initialized
+2026-02-01 19:15:32,415 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-01 19:16:19,350 - app.api.routes.chat - INFO - ================================================================================
+2026-02-01 19:16:19,352 - app.api.routes.chat - INFO - NEW CHAT REQUEST
+2026-02-01 19:16:19,352 - app.api.routes.chat - INFO - ================================================================================
+2026-02-01 19:16:19,352 - app.api.routes.chat - INFO - Query: What is machine learning?
+2026-02-01 19:16:19,352 - app.api.routes.chat - INFO - Top-K: 5
+2026-02-01 19:16:19,352 - app.api.routes.chat - INFO - Temperature: 0.3
+2026-02-01 19:16:19,352 - app.api.routes.chat - INFO - Initializing RAG Retriever...
+2026-02-01 19:16:19,352 - app.rag.vectorstore - INFO - Initialized FAISSVectorStore with dimension=384
+2026-02-01 19:16:19,353 - app.rag.engine - INFO - No existing index found: default
+2026-02-01 19:16:19,353 - app.rag.embeddings - INFO - Loading embedding model: all-MiniLM-L6-v2
+2026-02-01 19:16:19,353 - app.rag.embeddings - INFO - Cache directory: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/model_cache
+2026-02-01 19:16:19,489 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-02-01 19:16:19,489 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-02-01 19:16:21,561 - watchfiles.main - INFO - 1 change detected
+2026-02-01 19:16:23,864 - app.rag.embeddings - INFO - ✓ Model loaded successfully
+2026-02-01 19:16:23,864 - app.rag.embeddings - INFO -   Embedding dimension: 384
+2026-02-01 19:16:23,864 - app.rag.engine - INFO - RAG Retriever initialized
+2026-02-01 19:16:23,864 - app.api.routes.chat - INFO - ✓ RAG Retriever ready
+2026-02-01 19:16:23,864 - app.api.routes.chat - INFO - Initializing LLM Generator...
+2026-02-01 19:16:23,864 - app.llm.generator - INFO - LLM Generator initialized: provider=mock, temp=0.3, max_tokens=500
+2026-02-01 19:16:23,864 - app.llm.generator - INFO - Using MOCK provider (no API calls)
+2026-02-01 19:16:23,864 - app.api.routes.chat - INFO - ✓ LLM Generator ready
+2026-02-01 19:16:23,864 - app.api.routes.chat - INFO - 
+[PHASE 1: RETRIEVAL]
+2026-02-01 19:16:23,864 - app.rag.engine - INFO - Processing query: What is machine learning?...
+2026-02-01 19:16:23,865 - app.rag.embeddings - INFO - Generating embedding for query: What is machine learning?...
+2026-02-01 19:16:24,581 - app.rag.embeddings - INFO - ✓ Query embedding generated: dimension=384
+2026-02-01 19:16:24,581 - app.rag.engine - INFO - ✓ Query embedding generated: (384,)
+2026-02-01 19:16:24,581 - app.rag.engine - ERROR - FAISS search failed: Index not built. Call build_index() first.
+2026-02-01 19:16:24,581 - app.api.routes.chat - ERROR - Retrieval failed: Vector search failed: Index not built. Call build_index() first.
+2026-02-01 19:17:30,000 - watchfiles.main - INFO - 1 change detected
+2026-02-01 19:17:30,133 - app.main - INFO - Shutting down application...
+2026-02-01 19:17:30,133 - app.main - INFO - ✓ Cleanup completed
+2026-02-01 19:17:31,495 - watchfiles.main - INFO - 1 change detected
+2026-02-01 19:17:34,094 - watchfiles.main - INFO - 1 change detected
+2026-02-01 19:17:38,966 - app.main - INFO - ============================================================
+2026-02-01 19:17:38,966 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-01 19:17:38,966 - app.main - INFO - ============================================================
+2026-02-01 19:17:38,967 - app.main - INFO - ✓ Data directories initialized
+2026-02-01 19:17:38,967 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-01 19:17:40,977 - watchfiles.main - INFO - 1 change detected
+2026-02-01 19:17:41,092 - app.main - INFO - Shutting down application...
+2026-02-01 19:17:41,092 - app.main - INFO - ✓ Cleanup completed
+2026-02-01 19:17:41,951 - watchfiles.main - INFO - 2 changes detected
+2026-02-01 19:18:53,921 - app.main - INFO - ============================================================
+2026-02-01 19:18:53,921 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-01 19:18:53,921 - app.main - INFO - ============================================================
+2026-02-01 19:18:53,921 - app.main - INFO - ✓ Data directories initialized
+2026-02-01 19:18:53,921 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-02 00:35:22,001 - app.main - INFO - Shutting down application...
+2026-02-02 00:35:22,005 - app.main - INFO - ✓ Cleanup completed
+2026-02-02 00:35:47,529 - app.main - INFO - ============================================================
+2026-02-02 00:35:47,529 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-02 00:35:47,529 - app.main - INFO - ============================================================
+2026-02-02 00:35:47,530 - app.main - INFO - ✓ Data directories initialized
+2026-02-02 00:35:47,530 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-02 00:35:48,461 - app.api.routes.chat - INFO - ================================================================================
+2026-02-02 00:35:48,461 - app.api.routes.chat - INFO - NEW CHAT REQUEST
+2026-02-02 00:35:48,462 - app.api.routes.chat - INFO - ================================================================================
+2026-02-02 00:35:48,462 - app.api.routes.chat - INFO - Query: What is machine learning?
+2026-02-02 00:35:48,462 - app.api.routes.chat - INFO - Top-K: 5
+2026-02-02 00:35:48,462 - app.api.routes.chat - INFO - Temperature: 0.3
+2026-02-02 00:35:48,462 - app.api.routes.chat - INFO - Initializing RAG Retriever...
+2026-02-02 00:35:48,462 - app.rag.vectorstore - INFO - Initialized FAISSVectorStore with dimension=384
+2026-02-02 00:35:48,463 - app.rag.engine - INFO - No existing index found: default
+2026-02-02 00:35:48,463 - app.rag.embeddings - INFO - Loading embedding model: all-MiniLM-L6-v2
+2026-02-02 00:35:48,463 - app.rag.embeddings - INFO - Cache directory: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/model_cache
+2026-02-02 00:35:48,568 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-02-02 00:35:48,568 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-02-02 00:35:50,484 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:35:52,693 - app.rag.embeddings - INFO - ✓ Model loaded successfully
+2026-02-02 00:35:52,694 - app.rag.embeddings - INFO -   Embedding dimension: 384
+2026-02-02 00:35:52,694 - app.rag.engine - INFO - RAG Retriever initialized
+2026-02-02 00:35:52,694 - app.api.routes.chat - INFO - ✓ RAG Retriever ready
+2026-02-02 00:35:52,694 - app.api.routes.chat - INFO - Initializing LLM Generator...
+2026-02-02 00:35:52,694 - app.llm.generator - INFO - LLM Generator initialized: provider=mock, temp=0.3, max_tokens=500
+2026-02-02 00:35:52,694 - app.llm.generator - INFO - Using MOCK provider (no API calls)
+2026-02-02 00:35:52,694 - app.api.routes.chat - INFO - ✓ LLM Generator ready
+2026-02-02 00:35:52,694 - app.api.routes.chat - INFO - 
+[PHASE 1: RETRIEVAL]
+2026-02-02 00:35:52,694 - app.rag.engine - INFO - Processing query: What is machine learning?...
+2026-02-02 00:35:52,694 - app.rag.embeddings - INFO - Generating embedding for query: What is machine learning?...
+2026-02-02 00:35:53,610 - app.rag.embeddings - INFO - ✓ Query embedding generated: dimension=384
+2026-02-02 00:35:53,610 - app.rag.engine - INFO - ✓ Query embedding generated: (384,)
+2026-02-02 00:35:53,611 - app.rag.engine - ERROR - FAISS search failed: Index not built. Call build_index() first.
+2026-02-02 00:35:53,611 - app.api.routes.chat - ERROR - Retrieval failed: Vector search failed: Index not built. Call build_index() first.
+2026-02-02 00:36:10,584 - app.api.routes.chat - INFO - ================================================================================
+2026-02-02 00:36:10,585 - app.api.routes.chat - INFO - NEW CHAT REQUEST
+2026-02-02 00:36:10,585 - app.api.routes.chat - INFO - ================================================================================
+2026-02-02 00:36:10,585 - app.api.routes.chat - INFO - Query: What is machine learning?
+2026-02-02 00:36:10,585 - app.api.routes.chat - INFO - Top-K: 5
+2026-02-02 00:36:10,585 - app.api.routes.chat - INFO - Temperature: 0.3
+2026-02-02 00:36:10,585 - app.api.routes.chat - INFO - 
+[PHASE 1: RETRIEVAL]
+2026-02-02 00:36:10,585 - app.rag.engine - INFO - Processing query: What is machine learning?...
+2026-02-02 00:36:10,586 - app.rag.embeddings - INFO - Generating embedding for query: What is machine learning?...
+2026-02-02 00:36:10,867 - app.rag.embeddings - INFO - ✓ Query embedding generated: dimension=384
+2026-02-02 00:36:10,867 - app.rag.engine - INFO - ✓ Query embedding generated: (384,)
+2026-02-02 00:36:10,867 - app.rag.engine - ERROR - FAISS search failed: Index not built. Call build_index() first.
+2026-02-02 00:36:10,867 - app.api.routes.chat - ERROR - Retrieval failed: Vector search failed: Index not built. Call build_index() first.
+2026-02-02 00:37:12,101 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:37:12,312 - app.main - INFO - Shutting down application...
+2026-02-02 00:37:12,312 - app.main - INFO - ✓ Cleanup completed
+2026-02-02 00:37:13,604 - watchfiles.main - INFO - 2 changes detected
+2026-02-02 00:37:14,026 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:37:16,769 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:37:17,140 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:37:17,504 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:37:17,976 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:37:18,344 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 00:37:19,800 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:37:20,171 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:37:21,121 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:37:21,488 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:37:21,904 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:37:22,271 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 00:37:25,837 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:37:26,208 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:37:26,573 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:37:27,003 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:37:30,735 - app.main - INFO - ============================================================
+2026-02-02 00:37:30,735 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-02 00:37:30,735 - app.main - INFO - ============================================================
+2026-02-02 00:37:30,735 - app.main - INFO - ✓ Data directories initialized
+2026-02-02 00:37:30,735 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-02 00:57:15,681 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:15,972 - app.main - INFO - Shutting down application...
+2026-02-02 00:57:15,992 - app.main - INFO - ✓ Cleanup completed
+2026-02-02 00:57:18,724 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:24,586 - app.main - INFO - ============================================================
+2026-02-02 00:57:24,586 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-02 00:57:24,586 - app.main - INFO - ============================================================
+2026-02-02 00:57:24,586 - app.main - INFO - ✓ Data directories initialized
+2026-02-02 00:57:24,586 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-02 00:57:31,345 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:31,463 - app.main - INFO - Shutting down application...
+2026-02-02 00:57:31,463 - app.main - INFO - ✓ Cleanup completed
+2026-02-02 00:57:32,661 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:37,697 - app.main - INFO - ============================================================
+2026-02-02 00:57:37,697 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-02 00:57:37,697 - app.main - INFO - ============================================================
+2026-02-02 00:57:37,697 - app.main - INFO - ✓ Data directories initialized
+2026-02-02 00:57:37,697 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-02 00:57:44,868 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:45,094 - app.main - INFO - Shutting down application...
+2026-02-02 00:57:45,094 - app.main - INFO - ✓ Cleanup completed
+2026-02-02 00:57:46,332 - watchfiles.main - INFO - 5 changes detected
+2026-02-02 00:57:46,703 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:57:47,070 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:47,430 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 00:57:47,799 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:57:48,163 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:48,531 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:50,340 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:50,708 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 00:57:51,072 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:57:51,651 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:52,020 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:52,389 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 00:57:52,756 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:57:54,146 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:54,837 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:55,200 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 00:57:55,572 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 00:57:55,935 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 00:57:56,297 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 00:57:56,661 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:57:57,620 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:57,993 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 00:57:58,362 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:58,730 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:57:59,090 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:00,453 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:00,818 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:01,180 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:01,547 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:02,074 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:02,439 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:04,406 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:04,772 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:05,506 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:06,079 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:06,447 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:06,805 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:07,169 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:07,864 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:08,978 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:10,257 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:10,623 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:10,981 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:11,351 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:11,722 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:12,093 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:12,461 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:12,831 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:13,192 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:13,557 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:14,460 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:14,828 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:15,234 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:16,649 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:17,012 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:17,379 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:17,799 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:18,166 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:18,533 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:18,898 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:19,904 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:20,697 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:21,062 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:21,433 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:21,795 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:22,156 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:22,520 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:33,421 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:58:34,592 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:59:06,044 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:59:06,411 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:59:07,960 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:59:08,325 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:59:11,405 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:59:11,774 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 00:59:12,355 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:59:12,718 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:59:13,082 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:59:13,449 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:59:13,807 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:59:14,176 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 00:59:14,544 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:59:19,261 - app.main - INFO - ============================================================
+2026-02-02 00:59:19,261 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-02 00:59:19,261 - app.main - INFO - ============================================================
+2026-02-02 00:59:19,261 - app.main - INFO - ✓ Data directories initialized
+2026-02-02 00:59:19,261 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-02 00:59:19,276 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 00:59:59,025 - watchfiles.main - INFO - 1 change detected
+2026-02-02 00:59:59,201 - app.main - INFO - Shutting down application...
+2026-02-02 00:59:59,202 - app.main - INFO - ✓ Cleanup completed
+2026-02-02 01:00:00,589 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 01:00:04,157 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:00:04,527 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 01:00:09,032 - app.main - INFO - ============================================================
+2026-02-02 01:00:09,032 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-02 01:00:09,032 - app.main - INFO - ============================================================
+2026-02-02 01:00:09,032 - app.main - INFO - ✓ Data directories initialized
+2026-02-02 01:00:09,032 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-02 01:01:59,175 - app.api.routes.reminders - INFO - Processing upload: sample.txt -> 32678580-b0c1-453f-a78f-971424e98979
+2026-02-02 01:01:59,176 - app.api.routes.reminders - INFO - File saved to vault: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/vault/documents/32678580-b0c1-453f-a78f-971424e98979.txt
+2026-02-02 01:01:59,177 - app.api.routes.reminders - INFO - Text extracted: 57 characters
+2026-02-02 01:01:59,178 - app.api.routes.reminders - INFO - Metadata saved: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/metadata/32678580-b0c1-453f-a78f-971424e98979.json
+2026-02-02 01:01:59,280 - watchfiles.main - INFO - 2 changes detected
+2026-02-02 01:02:03,173 - app.api.routes.reminders - INFO - Processing upload: sample.txt -> d877cd0f-2c09-4019-800c-af4ae7e83422
+2026-02-02 01:02:03,177 - app.api.routes.reminders - INFO - File saved to vault: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/vault/documents/d877cd0f-2c09-4019-800c-af4ae7e83422.txt
+2026-02-02 01:02:03,179 - app.api.routes.reminders - INFO - Text extracted: 57 characters
+2026-02-02 01:02:03,180 - app.api.routes.reminders - INFO - Metadata saved: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/metadata/d877cd0f-2c09-4019-800c-af4ae7e83422.json
+2026-02-02 01:02:03,273 - watchfiles.main - INFO - 2 changes detected
+2026-02-02 01:02:11,012 - app.api.routes.index - INFO - ================================================================================
+2026-02-02 01:02:11,012 - app.api.routes.index - INFO - BUILDING FAISS INDEX
+2026-02-02 01:02:11,013 - app.api.routes.index - INFO - ================================================================================
+2026-02-02 01:02:11,013 - app.api.routes.index - INFO - 
+[STEP 1] Loading documents...
+2026-02-02 01:02:11,014 - app.api.routes.index - INFO - Found 3 documents
+2026-02-02 01:02:11,014 - app.api.routes.index - INFO - 
+[STEP 2] Chunking documents...
+2026-02-02 01:02:11,015 - app.rag.chunker - INFO - Chunking document e1d00609-0466-4d8f-9f11-bb029ff6edb4: length=56, chunk_size=500, overlap=100, step_size=400
+2026-02-02 01:02:11,015 - app.rag.chunker - INFO - Created 1 chunks for document e1d00609-0466-4d8f-9f11-bb029ff6edb4
+2026-02-02 01:02:11,015 - app.api.routes.index - INFO -   ✓ sample.txt: 1 chunks
+2026-02-02 01:02:11,016 - app.rag.chunker - INFO - Chunking document d877cd0f-2c09-4019-800c-af4ae7e83422: length=56, chunk_size=500, overlap=100, step_size=400
+2026-02-02 01:02:11,016 - app.rag.chunker - INFO - Created 1 chunks for document d877cd0f-2c09-4019-800c-af4ae7e83422
+2026-02-02 01:02:11,016 - app.api.routes.index - INFO -   ✓ sample.txt: 1 chunks
+2026-02-02 01:02:11,016 - app.rag.chunker - INFO - Chunking document 32678580-b0c1-453f-a78f-971424e98979: length=56, chunk_size=500, overlap=100, step_size=400
+2026-02-02 01:02:11,016 - app.rag.chunker - INFO - Created 1 chunks for document 32678580-b0c1-453f-a78f-971424e98979
+2026-02-02 01:02:11,016 - app.api.routes.index - INFO -   ✓ sample.txt: 1 chunks
+2026-02-02 01:02:11,016 - app.api.routes.index - INFO - 
+✓ Total chunks created: 3
+2026-02-02 01:02:11,016 - app.api.routes.index - INFO - 
+[STEP 3] Generating embeddings...
+2026-02-02 01:02:11,016 - app.rag.embeddings - INFO - Loading embedding model: all-MiniLM-L6-v2
+2026-02-02 01:02:11,016 - app.rag.embeddings - INFO - Cache directory: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/model_cache
+2026-02-02 01:02:11,183 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-02-02 01:02:11,183 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-02-02 01:02:13,497 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:02:15,936 - app.rag.embeddings - INFO - ✓ Model loaded successfully
+2026-02-02 01:02:15,938 - app.rag.embeddings - INFO -   Embedding dimension: 384
+2026-02-02 01:02:15,938 - app.rag.embeddings - INFO - Generating embeddings for 3 chunks
+2026-02-02 01:02:16,928 - app.rag.embeddings - INFO - ✓ Generated embeddings: shape=(3, 384)
+2026-02-02 01:02:16,929 - app.rag.embeddings - INFO - ✓ Created 3 embedding records
+2026-02-02 01:02:16,929 - app.api.routes.index - INFO - ✓ Generated 3 embeddings
+2026-02-02 01:02:16,929 - app.api.routes.index - INFO - 
+[STEP 4] Building FAISS index...
+2026-02-02 01:02:16,929 - app.rag.vectorstore - INFO - Initialized FAISSVectorStore with dimension=384
+2026-02-02 01:02:16,929 - app.rag.vectorstore - INFO - Building FAISS index from 3 embeddings
+2026-02-02 01:02:16,930 - app.rag.vectorstore - INFO - Embeddings array shape: (3, 384)
+2026-02-02 01:02:16,932 - app.rag.vectorstore - INFO - Created FAISS index: IndexFlatIP
+2026-02-02 01:02:16,937 - app.rag.vectorstore - INFO - ✓ FAISS index built successfully
+2026-02-02 01:02:16,937 - app.rag.vectorstore - INFO -   Total vectors: 3
+2026-02-02 01:02:16,937 - app.rag.vectorstore - INFO -   Dimension: 384
+2026-02-02 01:02:16,937 - app.rag.vectorstore - INFO -   Index type: IndexFlatIP
+2026-02-02 01:02:16,937 - app.api.routes.index - INFO - ✓ FAISS index built: 3 vectors
+2026-02-02 01:02:16,937 - app.api.routes.index - INFO - 
+[STEP 5] Saving chunk metadata...
+2026-02-02 01:02:16,941 - app.api.routes.index - INFO - ✓ Chunk metadata saved
+2026-02-02 01:02:16,941 - app.api.routes.index - INFO - 
+[STEP 6] Saving FAISS index to disk...
+2026-02-02 01:02:16,941 - app.rag.vectorstore - INFO - Saving FAISS index: default
+2026-02-02 01:02:16,944 - app.rag.vectorstore - INFO - ✓ Saved FAISS index: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/faiss_index/default_vector.index
+2026-02-02 01:02:16,948 - app.rag.vectorstore - INFO - ✓ Saved metadata: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/faiss_index/default_metadata.pkl
+2026-02-02 01:02:16,948 - app.rag.vectorstore - INFO - ✓ Saved config: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/faiss_index/default_config.json
+2026-02-02 01:02:16,948 - app.rag.vectorstore - INFO - ✓ Index saved successfully: default
+2026-02-02 01:02:16,948 - app.api.routes.index - INFO - ✓ Index saved successfully
+2026-02-02 01:02:16,948 - app.api.routes.index - INFO - 
+================================================================================
+2026-02-02 01:02:16,948 - app.api.routes.index - INFO - INDEX BUILDING COMPLETE
+2026-02-02 01:02:16,948 - app.api.routes.index - INFO - ================================================================================
+
+2026-02-02 01:02:17,024 - watchfiles.main - INFO - 6 changes detected
+2026-02-02 01:02:22,023 - app.api.routes.chat - INFO - Initializing RAG Retriever...
+2026-02-02 01:02:22,025 - app.rag.vectorstore - INFO - Initialized FAISSVectorStore with dimension=384
+2026-02-02 01:02:22,025 - app.rag.vectorstore - INFO - Loading FAISS index: default
+2026-02-02 01:02:22,027 - app.rag.vectorstore - INFO - ✓ Loaded FAISS index: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/faiss_index/default_vector.index
+2026-02-02 01:02:22,028 - app.rag.vectorstore - INFO - ✓ Loaded metadata: 3 records
+2026-02-02 01:02:22,028 - app.rag.vectorstore - INFO - ✓ Loaded config: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/faiss_index/default_config.json
+2026-02-02 01:02:22,028 - app.rag.vectorstore - INFO - ✓ Index loaded successfully
+2026-02-02 01:02:22,029 - app.rag.vectorstore - INFO -   Total vectors: 3
+2026-02-02 01:02:22,029 - app.rag.vectorstore - INFO -   Dimension: 384
+2026-02-02 01:02:22,029 - app.rag.engine - INFO - ✓ Loaded existing FAISS index: default
+2026-02-02 01:02:22,029 - app.rag.engine - INFO - RAG Retriever initialized
+2026-02-02 01:02:22,029 - app.api.routes.chat - INFO - ✓ RAG Retriever ready
+2026-02-02 01:02:22,029 - app.api.routes.chat - INFO - Initializing LLM Generator...
+2026-02-02 01:02:22,030 - app.llm.generator - INFO - LLM Generator initialized: provider=mock, temp=0.3, max_tokens=500
+2026-02-02 01:02:22,030 - app.llm.generator - INFO - Using MOCK provider (no API calls)
+2026-02-02 01:02:22,030 - app.api.routes.chat - INFO - ✓ LLM Generator ready
+2026-02-02 01:02:34,442 - app.api.routes.chat - INFO - ================================================================================
+2026-02-02 01:02:34,443 - app.api.routes.chat - INFO - NEW CHAT REQUEST
+2026-02-02 01:02:34,443 - app.api.routes.chat - INFO - ================================================================================
+2026-02-02 01:02:34,443 - app.api.routes.chat - INFO - Query: What is machine learning?
+2026-02-02 01:02:34,443 - app.api.routes.chat - INFO - Top-K: 5
+2026-02-02 01:02:34,443 - app.api.routes.chat - INFO - Temperature: 0.3
+2026-02-02 01:02:34,443 - app.api.routes.chat - INFO - 
+[PHASE 1: RETRIEVAL]
+2026-02-02 01:02:34,443 - app.rag.engine - INFO - Processing query: What is machine learning?...
+2026-02-02 01:02:34,443 - app.rag.embeddings - INFO - Generating embedding for query: What is machine learning?...
+2026-02-02 01:02:34,796 - app.rag.embeddings - INFO - ✓ Query embedding generated: dimension=384
+2026-02-02 01:02:34,796 - app.rag.engine - INFO - ✓ Query embedding generated: (384,)
+2026-02-02 01:02:34,797 - app.rag.vectorstore - INFO - Searching FAISS index for top 3 results
+2026-02-02 01:02:35,011 - app.rag.vectorstore - INFO - ✓ Found 3 results
+2026-02-02 01:02:35,011 - app.rag.engine - INFO - ✓ FAISS search completed: 3 results
+2026-02-02 01:02:35,012 - app.rag.engine - INFO - ✓ Retrieved 3 chunks with text
+2026-02-02 01:02:35,012 - app.rag.engine - INFO - ✓ Retrieval complete: 3 chunks, avg similarity: 0.1908
+2026-02-02 01:02:35,013 - app.api.routes.chat - INFO - ✓ Retrieved 3 chunks
+2026-02-02 01:02:35,013 - app.api.routes.chat - INFO -   Average similarity: 0.1908
+2026-02-02 01:02:35,013 - app.api.routes.chat - INFO -   - 32678580-b0c1-453f-a78f-971424e98979 [chunk 0] (score: 0.1908)
+2026-02-02 01:02:35,013 - app.api.routes.chat - INFO -   - d877cd0f-2c09-4019-800c-af4ae7e83422 [chunk 0] (score: 0.1908)
+2026-02-02 01:02:35,013 - app.api.routes.chat - INFO -   - e1d00609-0466-4d8f-9f11-bb029ff6edb4 [chunk 0] (score: 0.1908)
+2026-02-02 01:02:35,013 - app.api.routes.chat - INFO - 
+[PHASE 2: GENERATION]
+2026-02-02 01:02:35,013 - app.llm.generator - INFO - Generating answer for query: What is machine learning?...
+2026-02-02 01:02:35,013 - app.llm.generator - INFO - ✓ Answer generated (length: 266 chars)
+2026-02-02 01:02:35,013 - app.api.routes.chat - INFO - ✓ Answer generated
+2026-02-02 01:02:35,013 - app.api.routes.chat - INFO -   Length: 266 characters
+2026-02-02 01:02:35,013 - app.api.routes.chat - INFO -   Grounded: True
+2026-02-02 01:02:35,013 - app.api.routes.chat - INFO -   Provider: mock
+2026-02-02 01:02:35,013 - app.api.routes.chat - INFO - 
+[PHASE 3: RESPONSE FORMATTING]
+2026-02-02 01:02:35,031 - app.api.routes.chat - INFO - ✓ Response ready
+2026-02-02 01:02:35,031 - app.api.routes.chat - INFO -   Total execution time: 0.58s
+2026-02-02 01:02:35,031 - app.api.routes.chat - INFO - ================================================================================
+
+2026-02-02 01:03:29,386 - app.api.routes.index - INFO - ================================================================================
+2026-02-02 01:03:29,387 - app.api.routes.index - INFO - BUILDING FAISS INDEX
+2026-02-02 01:03:29,387 - app.api.routes.index - INFO - ================================================================================
+2026-02-02 01:03:29,387 - app.api.routes.index - INFO - 
+[STEP 1] Loading documents...
+2026-02-02 01:03:29,388 - app.api.routes.index - INFO - Found 3 documents
+2026-02-02 01:03:29,388 - app.api.routes.index - INFO - 
+[STEP 2] Chunking documents...
+2026-02-02 01:03:29,389 - app.rag.chunker - INFO - Chunking document e1d00609-0466-4d8f-9f11-bb029ff6edb4: length=56, chunk_size=500, overlap=100, step_size=400
+2026-02-02 01:03:29,390 - app.rag.chunker - INFO - Created 1 chunks for document e1d00609-0466-4d8f-9f11-bb029ff6edb4
+2026-02-02 01:03:29,390 - app.api.routes.index - INFO -   ✓ sample.txt: 1 chunks
+2026-02-02 01:03:29,390 - app.rag.chunker - INFO - Chunking document d877cd0f-2c09-4019-800c-af4ae7e83422: length=56, chunk_size=500, overlap=100, step_size=400
+2026-02-02 01:03:29,390 - app.rag.chunker - INFO - Created 1 chunks for document d877cd0f-2c09-4019-800c-af4ae7e83422
+2026-02-02 01:03:29,390 - app.api.routes.index - INFO -   ✓ sample.txt: 1 chunks
+2026-02-02 01:03:29,391 - app.rag.chunker - INFO - Chunking document 32678580-b0c1-453f-a78f-971424e98979: length=56, chunk_size=500, overlap=100, step_size=400
+2026-02-02 01:03:29,391 - app.rag.chunker - INFO - Created 1 chunks for document 32678580-b0c1-453f-a78f-971424e98979
+2026-02-02 01:03:29,391 - app.api.routes.index - INFO -   ✓ sample.txt: 1 chunks
+2026-02-02 01:03:29,391 - app.api.routes.index - INFO - 
+✓ Total chunks created: 3
+2026-02-02 01:03:29,391 - app.api.routes.index - INFO - 
+[STEP 3] Generating embeddings...
+2026-02-02 01:03:29,391 - app.rag.embeddings - INFO - Generating embeddings for 3 chunks
+2026-02-02 01:03:29,762 - app.rag.embeddings - INFO - ✓ Generated embeddings: shape=(3, 384)
+2026-02-02 01:03:29,767 - app.rag.embeddings - INFO - ✓ Created 3 embedding records
+2026-02-02 01:03:29,767 - app.api.routes.index - INFO - ✓ Generated 3 embeddings
+2026-02-02 01:03:29,767 - app.api.routes.index - INFO - 
+[STEP 4] Building FAISS index...
+2026-02-02 01:03:29,767 - app.rag.vectorstore - INFO - Initialized FAISSVectorStore with dimension=384
+2026-02-02 01:03:29,767 - app.rag.vectorstore - INFO - Building FAISS index from 3 embeddings
+2026-02-02 01:03:29,767 - app.rag.vectorstore - INFO - Embeddings array shape: (3, 384)
+2026-02-02 01:03:29,773 - app.rag.vectorstore - INFO - Created FAISS index: IndexFlatIP
+2026-02-02 01:03:29,774 - app.rag.vectorstore - INFO - ✓ FAISS index built successfully
+2026-02-02 01:03:29,774 - app.rag.vectorstore - INFO -   Total vectors: 3
+2026-02-02 01:03:29,774 - app.rag.vectorstore - INFO -   Dimension: 384
+2026-02-02 01:03:29,774 - app.rag.vectorstore - INFO -   Index type: IndexFlatIP
+2026-02-02 01:03:29,779 - app.api.routes.index - INFO - ✓ FAISS index built: 3 vectors
+2026-02-02 01:03:29,779 - app.api.routes.index - INFO - 
+[STEP 5] Saving chunk metadata...
+2026-02-02 01:03:29,784 - app.api.routes.index - INFO - ✓ Chunk metadata saved
+2026-02-02 01:03:29,784 - app.api.routes.index - INFO - 
+[STEP 6] Saving FAISS index to disk...
+2026-02-02 01:03:29,784 - app.rag.vectorstore - INFO - Saving FAISS index: default
+2026-02-02 01:03:29,792 - app.rag.vectorstore - INFO - ✓ Saved FAISS index: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/faiss_index/default_vector.index
+2026-02-02 01:03:29,793 - app.rag.vectorstore - INFO - ✓ Saved metadata: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/faiss_index/default_metadata.pkl
+2026-02-02 01:03:29,793 - app.rag.vectorstore - INFO - ✓ Saved config: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/faiss_index/default_config.json
+2026-02-02 01:03:29,794 - app.rag.vectorstore - INFO - ✓ Index saved successfully: default
+2026-02-02 01:03:29,802 - app.api.routes.index - INFO - ✓ Index saved successfully
+2026-02-02 01:03:29,802 - app.api.routes.index - INFO - 
+================================================================================
+2026-02-02 01:03:29,802 - app.api.routes.index - INFO - INDEX BUILDING COMPLETE
+2026-02-02 01:03:29,802 - app.api.routes.index - INFO - ================================================================================
+
+2026-02-02 01:03:29,858 - watchfiles.main - INFO - 6 changes detected
+2026-02-02 01:12:28,925 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:12:38,199 - app.main - INFO - Shutting down application...
+2026-02-02 01:12:38,200 - app.main - INFO - ✓ Cleanup completed
+2026-02-02 01:13:04,353 - app.main - INFO - ============================================================
+2026-02-02 01:13:04,353 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-02 01:13:04,353 - app.main - INFO - ============================================================
+2026-02-02 01:13:04,353 - app.main - INFO - ✓ Data directories initialized
+2026-02-02 01:13:04,353 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-02 01:20:33,597 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:20:44,806 - app.main - INFO - Shutting down application...
+2026-02-02 01:20:44,807 - app.main - INFO - ✓ Cleanup completed
+2026-02-02 01:20:58,707 - app.main - INFO - ============================================================
+2026-02-02 01:20:58,707 - app.main - INFO - Starting Hybrid SLM + LLM RAG Second Brain Application
+2026-02-02 01:20:58,707 - app.main - INFO - ============================================================
+2026-02-02 01:20:58,707 - app.main - INFO - ✓ Data directories initialized
+2026-02-02 01:20:58,707 - app.main - INFO - ✓ Application ready to accept requests
+2026-02-02 01:23:44,256 - app.api.routes.chat - INFO - ================================================================================
+2026-02-02 01:23:44,257 - app.api.routes.chat - INFO - NEW CHAT REQUEST
+2026-02-02 01:23:44,257 - app.api.routes.chat - INFO - ================================================================================
+2026-02-02 01:23:44,257 - app.api.routes.chat - INFO - Query: What is machine learning?
+2026-02-02 01:23:44,257 - app.api.routes.chat - INFO - Top-K: 3
+2026-02-02 01:23:44,257 - app.api.routes.chat - INFO - Temperature: 0.3
+2026-02-02 01:23:44,257 - app.api.routes.chat - INFO - Initializing RAG Retriever...
+2026-02-02 01:23:44,258 - app.rag.vectorstore - INFO - Initialized FAISSVectorStore with dimension=384
+2026-02-02 01:23:44,259 - app.rag.vectorstore - INFO - Loading FAISS index: default
+2026-02-02 01:23:44,263 - app.rag.vectorstore - INFO - ✓ Loaded FAISS index: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/faiss_index/default_vector.index
+2026-02-02 01:23:44,266 - app.rag.vectorstore - INFO - ✓ Loaded metadata: 3 records
+2026-02-02 01:23:44,268 - app.rag.vectorstore - INFO - ✓ Loaded config: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/faiss_index/default_config.json
+2026-02-02 01:23:44,268 - app.rag.vectorstore - INFO - ✓ Index loaded successfully
+2026-02-02 01:23:44,268 - app.rag.vectorstore - INFO -   Total vectors: 3
+2026-02-02 01:23:44,268 - app.rag.vectorstore - INFO -   Dimension: 384
+2026-02-02 01:23:44,269 - app.rag.engine - INFO - ✓ Loaded existing FAISS index: default
+2026-02-02 01:23:44,269 - app.rag.embeddings - INFO - Loading embedding model: all-MiniLM-L6-v2
+2026-02-02 01:23:44,269 - app.rag.embeddings - INFO - Cache directory: /Users/anakhdeepkp/Documents/hybrid-rag-second-brian/data/model_cache
+2026-02-02 01:23:44,425 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-02-02 01:23:44,425 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-02-02 01:23:46,642 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:23:49,141 - app.rag.embeddings - INFO - ✓ Model loaded successfully
+2026-02-02 01:23:49,142 - app.rag.embeddings - INFO -   Embedding dimension: 384
+2026-02-02 01:23:49,142 - app.rag.engine - INFO - RAG Retriever initialized
+2026-02-02 01:23:49,142 - app.api.routes.chat - INFO - ✓ RAG Retriever ready
+2026-02-02 01:23:49,142 - app.api.routes.chat - INFO - Initializing LLM Generator...
+2026-02-02 01:23:49,143 - app.llm.generator - INFO - LLM Generator initialized: provider=mock, temp=0.3, max_tokens=500
+2026-02-02 01:23:49,143 - app.llm.generator - INFO - Using MOCK provider (no API calls)
+2026-02-02 01:23:49,143 - app.api.routes.chat - INFO - ✓ LLM Generator ready
+2026-02-02 01:23:49,143 - app.api.routes.chat - INFO - 
+[PHASE 1: RETRIEVAL]
+2026-02-02 01:23:49,143 - app.rag.engine - INFO - Processing query: What is machine learning?...
+2026-02-02 01:23:49,143 - app.rag.embeddings - INFO - Generating embedding for query: What is machine learning?...
+2026-02-02 01:23:49,671 - app.rag.embeddings - INFO - ✓ Query embedding generated: dimension=384
+2026-02-02 01:23:49,671 - app.rag.engine - INFO - ✓ Query embedding generated: (384,)
+2026-02-02 01:23:49,676 - app.rag.vectorstore - INFO - Searching FAISS index for top 3 results
+2026-02-02 01:23:50,358 - app.rag.vectorstore - INFO - ✓ Found 3 results
+2026-02-02 01:23:50,798 - app.rag.engine - INFO - ✓ FAISS search completed: 3 results
+2026-02-02 01:23:50,829 - app.rag.engine - INFO - ✓ Retrieved 3 chunks with text
+2026-02-02 01:23:50,832 - app.rag.engine - INFO - ✓ Retrieval complete: 3 chunks, avg similarity: 0.1908
+2026-02-02 01:23:50,856 - app.api.routes.chat - INFO - ✓ Retrieved 3 chunks
+2026-02-02 01:23:50,859 - app.api.routes.chat - INFO -   Average similarity: 0.1908
+2026-02-02 01:23:50,859 - app.api.routes.chat - INFO -   - 32678580-b0c1-453f-a78f-971424e98979 [chunk 0] (score: 0.1908)
+2026-02-02 01:23:50,860 - app.api.routes.chat - INFO -   - d877cd0f-2c09-4019-800c-af4ae7e83422 [chunk 0] (score: 0.1908)
+2026-02-02 01:23:50,860 - app.api.routes.chat - INFO -   - e1d00609-0466-4d8f-9f11-bb029ff6edb4 [chunk 0] (score: 0.1908)
+2026-02-02 01:23:50,860 - app.api.routes.chat - INFO - 
+[PHASE 2: GENERATION]
+2026-02-02 01:23:50,860 - app.llm.generator - INFO - Generating answer for query: What is machine learning?...
+2026-02-02 01:23:50,860 - app.llm.generator - INFO - ✓ Answer generated (length: 266 chars)
+2026-02-02 01:23:50,860 - app.api.routes.chat - INFO - ✓ Answer generated
+2026-02-02 01:23:50,860 - app.api.routes.chat - INFO -   Length: 266 characters
+2026-02-02 01:23:50,861 - app.api.routes.chat - INFO -   Grounded: True
+2026-02-02 01:23:50,861 - app.api.routes.chat - INFO -   Provider: mock
+2026-02-02 01:23:50,861 - app.api.routes.chat - INFO - 
+[PHASE 3: RESPONSE FORMATTING]
+2026-02-02 01:23:50,869 - app.api.routes.chat - INFO - ✓ Response ready
+2026-02-02 01:23:50,869 - app.api.routes.chat - INFO -   Total execution time: 6.61s
+2026-02-02 01:23:50,869 - app.api.routes.chat - INFO - ================================================================================
+
+2026-02-02 01:29:29,712 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:29:33,693 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:29:44,073 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:29:46,486 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:34:06,310 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:34:06,582 - app.main - INFO - Shutting down application...
+2026-02-02 01:34:06,589 - app.main - INFO - ✓ Cleanup completed
+2026-02-02 01:34:08,628 - watchfiles.main - INFO - 4 changes detected
+2026-02-02 01:34:11,696 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:34:12,053 - watchfiles.main - INFO - 3 changes detected
+2026-02-02 01:34:23,103 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:34:25,232 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:34:28,002 - watchfiles.main - INFO - 1 change detected
+2026-02-02 01:35:16,116 - watchfiles.main - INFO - 1 change detected
